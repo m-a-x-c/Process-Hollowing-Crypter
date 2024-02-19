@@ -1,6 +1,7 @@
 # 💣 Process Hollowing Crypter 💻
 
-Welcome to the GitHub repository of an endeavour into the realms of cybersecurity and software engineering: **The Process Hollowing Crypter** project, a potent tool designed in C for the sophisticated technique of process hollowing. This project is currently a work in progress 🚧, symbolizing my journey through the intricate landscapes of low-level programming and malware analysis.
+This GitHub repository hosts the **Process Hollowing Crypter** project, a tool developed in C, focused on the implementation of the process hollowing technique. The project is in active development, representing an exploration into cybersecurity, software engineering, low-level programming, and malware analysis.
+
 
 ## What is Process Hollowing?
 
