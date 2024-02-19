@@ -13,11 +13,7 @@ The goal of this project is to create a crypter using the process hollowing tech
 
 ## 🚀 Features
 
-- Process creation in a suspended state.
-- Unmapping the primary module of the target process.
-- Allocating memory within the target process for the payload.
-- Injecting the payload into the target process.
-- Resuming the target process to execute the payload.
+- TBD
 
 ## 🛠️ How It Works
 
