@@ -5,7 +5,7 @@
 #include <errno.h>
 #include <stdlib.h>
 
-// Define NTSTATUS if not defined
+// Define NTSTATUS
 #ifndef NTSTATUS
 #define NTSTATUS LONG
 #endif
